@@ -3,7 +3,7 @@ Writes dummy file with defined bytes.
 I needed some activity on a HDD to record working sounds, this should do the trick without writing control commands to it.
 
 ## Shell
-```python
+```bash
 .\start.py 1024 --file_name=test2.txt --fill_byte=a
 ```
 
