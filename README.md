@@ -4,7 +4,7 @@ I needed some activity on a HDD to record working sounds, this should do the tri
 
 ## Shell
 ```bash
-.\start.py 1024 --file_name=test2.txt --fill_byte=a
+./start.py 1024 --file_name=test2.txt --fill_byte=a
 ```
 
 ## TODO
